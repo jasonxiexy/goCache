@@ -16,3 +16,8 @@ A lightweight distributed caching system implemented in Go, designed for perform
    ```bash
    git clone https://github.com/yourusername/go-distributed-cache.git
    cd goCache
+
+2. **Run test in each block**
+   ```bash
+   cd xxx
+   go test -v
